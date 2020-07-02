@@ -1,1 +1,1 @@
-# datafeeder
+go run main.go
